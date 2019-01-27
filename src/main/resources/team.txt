@@ -1,0 +1,20 @@
+Arsenal London http://res.cloudinary.com/dkhwkrdr9/image/upload/v1530471239/Arsenal_FC.png
+Chelsea London http://res.cloudinary.com/dkhwkrdr9/image/upload/v1530472422/2000px-Chelsea_FC.png
+Everton Liverpool https://res.cloudinary.com/dkhwkrdr9/image/upload/v1530472518/Everton_F.C.__2014.png
+Fulham London https://res.cloudinary.com/dkhwkrdr9/image/upload/v1530473543/340px-FC_Fulham_Logo.png
+Liverpool Liverpool https://res.cloudinary.com/dkhwkrdr9/image/upload/v1530466670/Liverpool_FC.png
+Manchester City Manchester https://res.cloudinary.com/dkhwkrdr9/image/upload/v1530472814/Manchester_City_Logo.png
+Manchester United Stretford https://res.cloudinary.com/dkhwkrdr9/image/upload/v1530472903/1010px-Manchester_United_FC_crest.png
+Newcastle United  Newcastle-upon-Tyne https://res.cloudinary.com/dkhwkrdr9/image/upload/v1530473015/Newcastle_United_Logo.png
+Tottenham Hotspur London https://res.cloudinary.com/dkhwkrdr9/image/upload/v1530473402/totenhem.png
+West Ham United Stratford https://res.cloudinary.com/dkhwkrdr9/image/upload/v1530473652/West_Ham_United_FC.png
+Burnley Burnley https://res.cloudinary.com/dkhwkrdr9/image/upload/v1530473774/Logo_FC_Burnley.png
+Cardiff City Cardiff https://res.cloudinary.com/dkhwkrdr9/image/upload/v1530474003/cardiff.png
+Crystal Palace Croydon https://res.cloudinary.com/dkhwkrdr9/image/upload/v1530474212/Crystal_Palace_FC_logo.svg.png
+Leicester City Leicester https://res.cloudinary.com/dkhwkrdr9/image/upload/v1530474281/Leicester_City_Logo.png
+Southampton Southampton https://res.cloudinary.com/dkhwkrdr9/image/upload/v1530474361/Southampton_Logo.png
+Watford Watford https://res.cloudinary.com/dkhwkrdr9/image/upload/v1530474463/Watford.png
+Wolverhampton Wanderers Wolverhampton https://res.cloudinary.com/dkhwkrdr9/image/upload/v1530474591/Wolverhampton_Wanderers_Logo.png
+Bournemouth Bournemouth https://res.cloudinary.com/dkhwkrdr9/image/upload/v1530474677/bournemouth.png
+Brighton Brighton https://res.cloudinary.com/dkhwkrdr9/image/upload/v1530474751/Brighton___Hove_Albion_Logo.png
+Huddersfield Town Huddersfield https://res.cloudinary.com/dkhwkrdr9/image/upload/v1530474902/Huddersfield_town.png
